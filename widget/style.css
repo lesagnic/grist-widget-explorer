@@ -1,0 +1,55 @@
+/*
+ * Aspect général des données d'exploration
+ */
+#exp-main {
+  font-family: Liberation Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol; 
+  font-size : small;
+  line-height: 1.5em;
+  min-height: 2em;
+  width: 100%;
+  height: 100%;
+}
+/*
+ * Gestion de l'indentation des données d'exploration (notamment lorsque hiérarchique)
+ */
+ul.exp-1st-level {
+  padding-left : 0em; /* No padding for 1st level */
+}
+ul.exp-mid-level {
+  padding-left: 1em; /* Light padding for intermediate level which have no bullet */
+}
+ul.exp-last-level {
+  padding-left: 2em; /* Greater paddin for last level which has bullet */
+}
+/*
+ * Suppression des bullets sur les noeuds de l'arbre contenant des sous-noeuds
+ */
+#exp-main li:has(> details) {
+  display : block;
+}
+/*
+ * Tous les noeuds sont pointables
+ */
+li.exp-node {
+  cursor : pointer;
+}
+/*
+ * Mise en lumière des noeuds pouvant être sélectionnés
+ */
+div.exp-leaf:not(.selected):hover, summary:hover {
+  z-index: 1;
+  background-color: #f0f0f0;
+}
+/*
+ * Mise en lumière accentué de la ligne du tableau sélectionnée
+ */
+.selected, div.leaf:active, summary.leaf:active {
+  background-color: #d0ebff;
+}
+/*
+ * Mise en gras des noeuds contenant la ligne du tableau sélectionné
+ */
+details:has(div.selected) > summary {
+  //background-color: #d0ebff;
+  font-weight: bold;
+}

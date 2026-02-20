@@ -1,0 +1,7 @@
+{
+  "name": "Explorateur de table Grist",
+  "description": "Permet d'explorer une table via un widget connecté en sélectionnant les lignes du tableau via les valeurs d'une colonne éventuellement regroupées suivant les valeurs d'autres colonnes",
+  "url": "https://lesagnic.github.io/explorateur-table-grist/index.html",
+  "accessLevel": "read table",
+  "parameters": []
+}
