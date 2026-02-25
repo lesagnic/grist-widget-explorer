@@ -22,7 +22,7 @@ Ce widget Grist permet de présenter les lignes d'une table sous forme d'une sim
 <!-- ABOUT THE PROJECT -->
 ## A propos
 
-[![Product Name Screen Shot][product-screenshot]](https://grist.numerique.gouv.fr/o/lesagnic/prQvArMTMKxv/Explorateur/p/2)
+<center>[![Product Name Screen Shot][product-screenshot]](https://grist.numerique.gouv.fr/o/lesagnic/prQvArMTMKxv/Explorateur/p/2)</center>
 
 Le contenu de la table liée à l'explorateur peut-être visualisée comme une simple liste de libellés ou comme sur cet exemple comme un arbre regroupant les libellés en catégorie et sous-catégories.
 
