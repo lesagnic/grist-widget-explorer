@@ -32,7 +32,6 @@ Les widgets connectés affichent la ligne de la table sélectionnée dans l'expl
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-https://support.getgrist.com/code/modules/grist_plugin_api/
 
 <!-- GETTING STARTED -->
 ## Pour commencer...
@@ -44,10 +43,10 @@ Disposer dans un document GRIST d'une table contenant a minima une colonne pouva
 ### Mise en oeuvre
 
 Dans une page du document GRIST éventuellement créée pour l'occasion, ajoutez une vue personnalisée associée à votre table :
-[![New Widget][product-newwidget]]
+<img src="assets/img/newwidget.png" width="200"/>
 
 Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **https://lesagnic.github.io/grist-widget-explorer/widget** dans la zone URL du Widget et cliquez sur **Ajouter**.
-[![URL Personalisee][product-newwidget]]
+<img src="assets/img/urlwidget.png" width="200"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,6 +67,5 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **https:/
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 [product-screenshot]: assets/img/screenshot.png
-[product-newwidget]: assets/img/newwidget.png
 [grist-plugin-api.js]: https://img.shields.io/badge/grist-grist%E2%80%94plugin%E2%80%94api.js-000000?style=for-the-badge
 [Grist-url]: https://support.getgrist.com/code/modules/grist_plugin_api/
