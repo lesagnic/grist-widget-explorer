@@ -22,7 +22,7 @@ Ce widget Grist permet de présenter les lignes d'une table sous forme d'une sim
 <!-- ABOUT THE PROJECT -->
 ## A propos
 
-<center>[![Product Name Screen Shot][product-screenshot]](https://grist.numerique.gouv.fr/o/lesagnic/prQvArMTMKxv/Explorateur/p/2)</center>
+[![Product Name Screen Shot][product-screenshot]](https://grist.numerique.gouv.fr/o/lesagnic/prQvArMTMKxv/Explorateur/p/2)
 
 Le contenu de la table liée à l'explorateur peut-être visualisée comme une simple liste de libellés ou comme sur cet exemple comme un arbre regroupant les libellés en catégorie et sous-catégories.
 
@@ -44,11 +44,11 @@ Disposer dans un document GRIST d'une table contenant a minima une colonne pouva
 
 Dans une page du document GRIST éventuellement créée pour l'occasion, ajoutez une vue personnalisée associée à votre table :
 
-<center><img src="assets/img/newwidget.png" width="500"/></center>
+<p style="text-align:center"><img src="assets/img/newwidget.png" width="500"/></p>
 
 Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https://lesagnic.github.io/grist-widget-explorer/widget'** dans la zone URL du widget et cliquez sur **Ajouter**.
 
-<center><img src="assets/img/urlwidget.png" width="500"/></center>
+<p style="text-align:center"><img src="assets/img/urlwidget.png" width="500"/></p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
