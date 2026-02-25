@@ -43,10 +43,10 @@ Disposer dans un document GRIST d'une table contenant a minima une colonne pouva
 ### Mise en oeuvre
 
 Dans une page du document GRIST éventuellement créée pour l'occasion, ajoutez une vue personnalisée associée à votre table :
-<img src="assets/img/newwidget.png" width="200"/>
+<img src="assets/img/newwidget.png" width="400"/>
 
-Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **https://lesagnic.github.io/grist-widget-explorer/widget** dans la zone URL du Widget et cliquez sur **Ajouter**.
-<img src="assets/img/urlwidget.png" width="200"/>
+Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https://lesagnic.github.io/grist-widget-explorer/widget'** dans la zone URL du widget et cliquez sur **Ajouter**.
+<img src="assets/img/urlwidget.png" width="400"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
