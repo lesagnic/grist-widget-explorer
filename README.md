@@ -33,7 +33,7 @@ Les widgets connectés affichent la ligne de la table sélectionnée dans l'expl
 
 
 ### Construit à partir de
-* [![Grist][Grist.js]][Grist-url]
+* [![Grist][grist-plugin-api.js]][Grist-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,5 +53,5 @@ Les widgets connectés affichent la ligne de la table sélectionnée dans l'expl
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 [product-screenshot]: assets/img/screenshot.png
-[Grist.js]: https://img.shields.io/badge/grist-plugin-api.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[grist-plugin-api.js]: https://img.shields.io/badge/grist-plugin-api.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Grist-url]: https://docs.getgrist.com/
