@@ -19,6 +19,24 @@
 # Widget Explorateur pour Grist
 Ce widget Grist permet de présenter les lignes d'une table sous forme d'une simple liste de libellés ou sous forme d'un arbre regroupant les libellés selon les valeurs de colonnes servant de classification des lignes de la table.
 
+<!-- ABOUT THE PROJECT -->
+## A propos
+
+[![Product Name Screen Shot][product-screenshot]](https://grist.numerique.gouv.fr/o/lesagnic/prQvArMTMKxv/Explorateur/p/2)
+
+Le contenu de la table liée à l'explorateur peut-être visualisée comme une simple liste de libellés ou comme sur cet exemple comme un arbre regroupant les libellés en catégorie et sous-catégories.
+
+Les widgets connectés affichent la ligne de la table sélectionnée dans l'explorateur. Le widget explortauer permet ainsi de naviguer dans le contenu de la table. 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+### Construit à partir de
+* [![Grist][Grist.js]][Grist-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -34,6 +52,6 @@ Ce widget Grist permet de présenter les lignes d'une table sous forme d'une sim
 [issues-url]: https://github.com/lesagnic/grist-widget-explorer/issues
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
-<!-- A Faire 
 [product-screenshot]: assets/img/screenshot.png
--->
+[Grist.js]: https://img.shields.io/badge/grist-plugin-api.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Grist-url]: https://docs.getgrist.com/
