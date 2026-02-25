@@ -28,9 +28,7 @@ Le contenu de la table liée à l'explorateur peut-être visualisée comme une s
 
 Les widgets connectés affichent la ligne de la table sélectionnée dans l'explorateur. Le widget explortauer permet ainsi de naviguer dans le contenu de la table. 
 
-<div style="text-align: center;">
-### Construit à partir de [![Grist][grist-plugin-api.js]][Grist-url]
-</div>
+### Construit à partir de : [![Grist][grist-plugin-api.js]][Grist-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
