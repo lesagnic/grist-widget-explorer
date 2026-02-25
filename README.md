@@ -32,7 +32,7 @@ Ce widget Grist permet de présenter les lignes d'une table sous forme d'une sim
 [forks-url]: https://github.com/lesagnic/grist-widget-explorer/network/members
 [stars-url]: https://github.com/lesagnic/grist-widget-explorer/stargazers
 [issues-url]: https://github.com/lesagnic/grist-widget-explorer/issues
-[license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/master/LICENSE.txt
+[license-url]: https://github.com/lesagnic/grist-widget-explorer/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 <!-- A Faire 
 [product-screenshot]: assets/img/screenshot.png
