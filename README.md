@@ -23,11 +23,11 @@ Ce widget Grist permet de présenter les lignes d'une table sous forme d'une sim
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- No shiled yet
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/lesagnic/grist-widget-explorer.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/lesagnic/grist-widget-explorer.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/lesagnic/grist-widget-explorer.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/lesagnic/grist-widget-explorer.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/lesagnic/grist-widget-explorer.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 --> 
 [contributors-url]: https://github.com/lesagnic/grist-widget-explorer/stargazers
