@@ -69,5 +69,5 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https:
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 [product-screenshot]: assets/img/screenshot.png
-[grist-plugin-api.js]: https://img.shields.io/badge/grist-grist--plugin--api.js-000000?style=plastic&labelcolor=f7af40
+[grist-plugin-api.js]: https://img.shields.io/badge/grist-grist--plugin--api.js-000000?style=plastic&labelColor=F7AF40
 [Grist-url]: https://support.getgrist.com/code/modules/grist_plugin_api/
