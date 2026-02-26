@@ -1,6 +1,5 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<header>
     
 <!--
 <!-- PROJECT SHIELDS -->
@@ -18,18 +17,6 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div class="logo">Explorateur</div>
-    <nav>
-        <ul>
-            <li><a data-section="accueil">Accueil</a></li>
-            <li><a data-section="start-with">Pour commencer</a></li>
-        </ul>
-    </nav>
-</header>
-
-<!-- Sections -->
-<section id="accueil" class="active">
-
 <!-- ABOUT THE PROJECT -->
 ## A propos
 
@@ -42,11 +29,8 @@ Les widgets connectés affichent la ligne de la table sélectionnée dans l'expl
 ### Construit à partir de : [![Grist][grist-plugin-api.js]][Grist-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-   
-</section>
 
 <!-- GETTING STARTED -->
-<section id="start-with" class="active">
 ## Pour commencer...
 
 ### Prérequis
@@ -65,8 +49,6 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-</section>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/lesagnic/grist-widget-explorer.svg?style=plastic
@@ -82,22 +64,5 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https:
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 [product-screenshot]: assets/img/screenshot.png
-
-<script>
-    // Get all menu links
-    const menuLinks = document.querySelectorAll('nav ul li a');
-    const sections = document.querySelectorAll('section');
-
-    menuLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            // Hide all sections
-            sections.forEach(sec => sec.classList.remove('active'));
-
-            // Show the selected section
-            const target = link.getAttribute('data-section');
-            document.getElementById(target).classList.add('active');
-        });
-    });
-</script>
 [grist-plugin-api.js]: https://img.shields.io/badge/grist-grist--plugin--api.js-000000?style=plastic&labelColor=F7AF40
 [Grist-url]: https://support.getgrist.com/code/modules/grist_plugin_api/
