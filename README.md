@@ -56,12 +56,12 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/lesagnic/grist-widget-explorer.svg?style=for-the-badge
-[forks-shield]: https://img.shields.io/github/forks/lesagnic/grist-widget-explorer.svg?style=for-the-badge
-[stars-shield]: https://img.shields.io/github/stars/lesagnic/grist-widget-explorer.svg?style=for-the-badge
-[issues-shield]: https://img.shields.io/github/issues/lesagnic/grist-widget-explorer.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/lesagnic/grist-widget-explorer.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555 
+[contributors-shield]: https://img.shields.io/github/contributors/lesagnic/grist-widget-explorer.svg?style=plastic
+[forks-shield]: https://img.shields.io/github/forks/lesagnic/grist-widget-explorer.svg?style=plastic
+[stars-shield]: https://img.shields.io/github/stars/lesagnic/grist-widget-explorer.svg?style=plastic
+[issues-shield]: https://img.shields.io/github/issues/lesagnic/grist-widget-explorer.svg?style=plastic
+[license-shield]: https://img.shields.io/github/license/lesagnic/grist-widget-explorer.svg?style=plastic
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555 
 [contributors-url]: https://github.com/lesagnic/grist-widget-explorer/graphs/contributors
 [forks-url]: https://github.com/lesagnic/grist-widget-explorer/network/members
 [stars-url]: https://github.com/lesagnic/grist-widget-explorer/stargazers
@@ -69,5 +69,5 @@ Sélectionnez le widget de type **URL Personnalisée** et copiez l'URL **'https:
 [license-url]: https://github.com/lesagnic/grist-widget-explorer/blob/main/LICENSE
 [linkedin-url]: https://www.linkedin.com/in/nicolas-lesage-1a2049b0/
 [product-screenshot]: assets/img/screenshot.png
-[grist-plugin-api.js]: https://img.shields.io/badge/grist-grist%E2%80%94plugin%E2%80%94api.js-000000?style=for-the-badge
+[grist-plugin-api.js]: https://img.shields.io/badge/grist-grist--plugin--api.js-000000?style=plastic
 [Grist-url]: https://support.getgrist.com/code/modules/grist_plugin_api/
