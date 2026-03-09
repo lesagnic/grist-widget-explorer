@@ -5,10 +5,12 @@ let currentRowId = null;
 //
 // Gestion de la ligne du tableau sélectionnée
 function HighlightSelectedRow(id) {
-  currentRowId = id;
-  document.querySelectorAll("div").forEach(el => {
-    el.classList.toggle('selected', el.id==`_row_${currentRowId}`);
-  });
+  if (record.id !== currentRowId) {
+    grist.setCursorPos?.({rowId: id}).catch(() => {});
+    currentRowId = id;
+    document.querySelectorAll("div").forEach(el => {
+      el.classList.toggle('selected', el.id==`_row_${currentRowId}`);
+    });
 }
 //
 // Création des items de l'explorateur (chaque item correspond à une ligne du tableau)
@@ -30,7 +32,7 @@ function ManageItem(table,element,filter) {
         div.id = `_row_${record.id}`;
         div.className = 'exp-leaf exp-node';
         div.onclick = () => {
-          grist.setSelectedRows([record.id])
+          // grist.setSelectedRows([record.id])
           HighlightSelectedRow(record.id)
         };
         div.textContent = val;
@@ -124,8 +126,8 @@ grist.onRecords(table => {
     // Je ne sais pas pourquoi, mais il faut le sélectionner la ligne 2 fois...
     // ... sinon la vue Indicateur sélectionné est vide si on appelle
     // la page dans un nouvel onglet.
-    grist.setSelectedRows([table[0].id]);
-    grist.setSelectedRows([table[0].id]);
+    //grist.setSelectedRows([table[0].id]);
+    //grist.setSelectedRows([table[0].id]);
     HighlightSelectedRow(table[0].id);
   }
 });
